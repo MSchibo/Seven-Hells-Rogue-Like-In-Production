@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 83de3f9d645b0cf4aa9f1673160ce872
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7748116907041597173
+    second: MaleDamned Flipped_0
+  - first:
+      213: 8660240443421207815
+    second: MaleDamned Flipped_1
+  - first:
+      213: -3082337340340068941
+    second: MaleDamned Flipped_2
+  - first:
+      213: -2819032346498939564
+    second: MaleDamned Flipped_3
+  - first:
+      213: 2237713931994429986
+    second: MaleDamned Flipped_4
+  - first:
+      213: -7788009668783865890
+    second: MaleDamned Flipped_5
+  - first:
+      213: 7293134890987815835
+    second: MaleDamned Flipped_6
+  - first:
+      213: -2678028839825118819
+    second: MaleDamned Flipped_7
+  - first:
+      213: 3184531478944004
+    second: MaleDamned Flipped_8
+  - first:
+      213: -6866018235306851849
+    second: MaleDamned Flipped_9
+  - first:
+      213: 8804255360882484051
+    second: MaleDamned Flipped_10
+  - first:
+      213: -185668268761972039
+    second: MaleDamned Flipped_11
+  - first:
+      213: -7576458445933080532
+    second: MaleDamned Flipped_12
+  - first:
+      213: -8894352344540374412
+    second: MaleDamned Flipped_13
+  - first:
+      213: -5207345635947497196
+    second: MaleDamned Flipped_14
+  - first:
+      213: -5519971505131629377
+    second: MaleDamned Flipped_15
+  - first:
+      213: -6605830069608405761
+    second: MaleDamned Flipped_16
+  - first:
+      213: 6536199302286015041
+    second: MaleDamned Flipped_17
+  - first:
+      213: 5579592451587533481
+    second: MaleDamned Flipped_18
+  - first:
+      213: -8610324831104623675
+    second: MaleDamned Flipped_19
+  - first:
+      213: 888345294478131604
+    second: MaleDamned Flipped_20
+  - first:
+      213: 3043930556628485307
+    second: MaleDamned Flipped_21
+  - first:
+      213: 1101478218096088292
+    second: MaleDamned Flipped_22
+  - first:
+      213: -3374754395340778339
+    second: MaleDamned Flipped_23
+  - first:
+      213: -2364182199387301421
+    second: MaleDamned Flipped_24
+  - first:
+      213: 3024486229730183047
+    second: MaleDamned Flipped_25
+  - first:
+      213: -1902591130868393370
+    second: MaleDamned Flipped_26
+  - first:
+      213: 1915550003453344595
+    second: MaleDamned Flipped_27
+  - first:
+      213: -6520196645880337979
+    second: MaleDamned Flipped_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaleDamned Flipped_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 191
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a9629647d68b60800000000000000
+      internalID: 7748116907041597173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 191
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da793acca5f2870800000000000000
+      internalID: 8660240443421207815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9b1715865935d0800000000000000
+      internalID: -3082337340340068941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 191
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45548984409c0e8d0800000000000000
+      internalID: -2819032346498939564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 191
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a787917f4fd0f10800000000000000
+      internalID: 2237713931994429986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 127
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf74d8087e6be390800000000000000
+      internalID: -7788009668783865890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93065cea8b663560800000000000000
+      internalID: 7293134890987815835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e8ff75fab5dad0800000000000000
+      internalID: -2678028839825118819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 127
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409149380505b0000800000000000000
+      internalID: 3184531478944004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 127
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14e2feac007b0a0800000000000000
+      internalID: -6866018235306851849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 127
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353aa319a9ffe2a70800000000000000
+      internalID: 8804255360882484051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 127
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2816a71bf5c6df0800000000000000
+      internalID: -185668268761972039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 127
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2096aa6f230bd690800000000000000
+      internalID: -7576458445933080532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a128cbaa9e09480800000000000000
+      internalID: -8894352344540374412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4193baadbbacbb7b0800000000000000
+      internalID: -5207345635947497196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d952892f1563b0800000000000000
+      internalID: -5519971505131629377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4a5660d806354a0800000000000000
+      internalID: -6605830069608405761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 63
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af9e992ae35ba50800000000000000
+      internalID: 6536199302286015041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_18
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 63
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6354d5c1be6d40800000000000000
+      internalID: 5579592451587533481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb98418f2bf18880800000000000000
+      internalID: -8610324831104623675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914243b659045c00800000000000000
+      internalID: 888345294478131604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb44cccb6b63e3a20800000000000000
+      internalID: 3043930556628485307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4927d7a9c394f00800000000000000
+      internalID: 1101478218096088292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945685f1c67a21d0800000000000000
+      internalID: -3374754395340778339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d73dc0dcb03fd0800000000000000
+      internalID: -2364182199387301421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787c027933229f920800000000000000
+      internalID: 3024486229730183047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad7c36273a895e0800000000000000
+      internalID: -1902591130868393370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb5514496659a10800000000000000
+      internalID: 1915550003453344595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleDamned Flipped_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9eb9032bb9385a0800000000000000
+      internalID: -6520196645880337979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaleDamned Flipped_0: 7748116907041597173
+      MaleDamned Flipped_1: 8660240443421207815
+      MaleDamned Flipped_10: 8804255360882484051
+      MaleDamned Flipped_11: -185668268761972039
+      MaleDamned Flipped_12: -7576458445933080532
+      MaleDamned Flipped_13: -8894352344540374412
+      MaleDamned Flipped_14: -5207345635947497196
+      MaleDamned Flipped_15: -5519971505131629377
+      MaleDamned Flipped_16: -6605830069608405761
+      MaleDamned Flipped_17: 6536199302286015041
+      MaleDamned Flipped_18: 5579592451587533481
+      MaleDamned Flipped_19: -8610324831104623675
+      MaleDamned Flipped_2: -3082337340340068941
+      MaleDamned Flipped_20: 888345294478131604
+      MaleDamned Flipped_21: 3043930556628485307
+      MaleDamned Flipped_22: 1101478218096088292
+      MaleDamned Flipped_23: -3374754395340778339
+      MaleDamned Flipped_24: -2364182199387301421
+      MaleDamned Flipped_25: 3024486229730183047
+      MaleDamned Flipped_26: -1902591130868393370
+      MaleDamned Flipped_27: 1915550003453344595
+      MaleDamned Flipped_28: -6520196645880337979
+      MaleDamned Flipped_3: -2819032346498939564
+      MaleDamned Flipped_4: 2237713931994429986
+      MaleDamned Flipped_5: -7788009668783865890
+      MaleDamned Flipped_6: 7293134890987815835
+      MaleDamned Flipped_7: -2678028839825118819
+      MaleDamned Flipped_8: 3184531478944004
+      MaleDamned Flipped_9: -6866018235306851849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
